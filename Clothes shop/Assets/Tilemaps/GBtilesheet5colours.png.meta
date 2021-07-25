@@ -1,0 +1,3239 @@
+fileFormatVersion: 2
+guid: 13be9d5365c506741ac2468dea414196
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GBtilesheet5colours_0
+    21300002: GBtilesheet5colours_1
+    21300004: GBtilesheet5colours_2
+    21300006: GBtilesheet5colours_3
+    21300008: GBtilesheet5colours_4
+    21300010: GBtilesheet5colours_5
+    21300012: GBtilesheet5colours_6
+    21300014: GBtilesheet5colours_7
+    21300016: GBtilesheet5colours_8
+    21300018: GBtilesheet5colours_9
+    21300020: GBtilesheet5colours_10
+    21300022: GBtilesheet5colours_11
+    21300024: GBtilesheet5colours_12
+    21300026: GBtilesheet5colours_13
+    21300028: GBtilesheet5colours_14
+    21300030: GBtilesheet5colours_15
+    21300032: GBtilesheet5colours_16
+    21300034: GBtilesheet5colours_17
+    21300036: GBtilesheet5colours_18
+    21300038: GBtilesheet5colours_19
+    21300040: GBtilesheet5colours_20
+    21300042: GBtilesheet5colours_21
+    21300044: GBtilesheet5colours_22
+    21300046: GBtilesheet5colours_23
+    21300048: GBtilesheet5colours_24
+    21300050: GBtilesheet5colours_25
+    21300052: GBtilesheet5colours_26
+    21300054: GBtilesheet5colours_27
+    21300056: GBtilesheet5colours_28
+    21300058: GBtilesheet5colours_29
+    21300060: GBtilesheet5colours_30
+    21300062: GBtilesheet5colours_31
+    21300064: GBtilesheet5colours_32
+    21300066: GBtilesheet5colours_33
+    21300068: GBtilesheet5colours_34
+    21300070: GBtilesheet5colours_35
+    21300072: GBtilesheet5colours_36
+    21300074: GBtilesheet5colours_37
+    21300076: GBtilesheet5colours_38
+    21300078: GBtilesheet5colours_39
+    21300080: GBtilesheet5colours_40
+    21300082: GBtilesheet5colours_41
+    21300084: GBtilesheet5colours_42
+    21300086: GBtilesheet5colours_43
+    21300088: GBtilesheet5colours_44
+    21300090: GBtilesheet5colours_45
+    21300092: GBtilesheet5colours_46
+    21300094: GBtilesheet5colours_47
+    21300096: GBtilesheet5colours_48
+    21300098: GBtilesheet5colours_49
+    21300100: GBtilesheet5colours_50
+    21300102: GBtilesheet5colours_51
+    21300104: GBtilesheet5colours_52
+    21300106: GBtilesheet5colours_53
+    21300108: GBtilesheet5colours_54
+    21300110: GBtilesheet5colours_55
+    21300112: GBtilesheet5colours_56
+    21300114: GBtilesheet5colours_57
+    21300116: GBtilesheet5colours_58
+    21300118: GBtilesheet5colours_59
+    21300120: GBtilesheet5colours_60
+    21300122: GBtilesheet5colours_61
+    21300124: GBtilesheet5colours_62
+    21300126: GBtilesheet5colours_63
+    21300128: GBtilesheet5colours_64
+    21300130: GBtilesheet5colours_65
+    21300132: GBtilesheet5colours_66
+    21300134: GBtilesheet5colours_67
+    21300136: GBtilesheet5colours_68
+    21300138: GBtilesheet5colours_69
+    21300140: GBtilesheet5colours_70
+    21300142: GBtilesheet5colours_71
+    21300144: GBtilesheet5colours_72
+    21300146: GBtilesheet5colours_73
+    21300148: GBtilesheet5colours_74
+    21300150: GBtilesheet5colours_75
+    21300152: GBtilesheet5colours_76
+    21300154: GBtilesheet5colours_77
+    21300156: GBtilesheet5colours_78
+    21300158: GBtilesheet5colours_79
+    21300160: GBtilesheet5colours_80
+    21300162: GBtilesheet5colours_81
+    21300164: GBtilesheet5colours_82
+    21300166: GBtilesheet5colours_83
+    21300168: GBtilesheet5colours_84
+    21300170: GBtilesheet5colours_85
+    21300172: GBtilesheet5colours_86
+    21300174: GBtilesheet5colours_87
+    21300176: GBtilesheet5colours_88
+    21300178: GBtilesheet5colours_89
+    21300180: GBtilesheet5colours_90
+    21300182: GBtilesheet5colours_91
+    21300184: GBtilesheet5colours_92
+    21300186: GBtilesheet5colours_93
+    21300188: GBtilesheet5colours_94
+    21300190: GBtilesheet5colours_95
+    21300192: GBtilesheet5colours_96
+    21300194: GBtilesheet5colours_97
+    21300196: GBtilesheet5colours_98
+    21300198: GBtilesheet5colours_99
+    21300200: GBtilesheet5colours_100
+    21300202: GBtilesheet5colours_101
+    21300204: GBtilesheet5colours_102
+    21300206: GBtilesheet5colours_103
+    21300208: GBtilesheet5colours_104
+    21300210: GBtilesheet5colours_105
+    21300212: GBtilesheet5colours_106
+    21300214: GBtilesheet5colours_107
+    21300216: GBtilesheet5colours_108
+    21300218: GBtilesheet5colours_109
+    21300220: GBtilesheet5colours_110
+    21300222: GBtilesheet5colours_111
+    21300224: GBtilesheet5colours_112
+    21300226: GBtilesheet5colours_113
+    21300228: GBtilesheet5colours_114
+    21300230: GBtilesheet5colours_115
+    21300232: GBtilesheet5colours_116
+    21300234: GBtilesheet5colours_117
+    21300236: GBtilesheet5colours_118
+    21300238: GBtilesheet5colours_119
+    21300240: GBtilesheet5colours_120
+    21300242: GBtilesheet5colours_121
+    21300244: GBtilesheet5colours_122
+    21300246: GBtilesheet5colours_123
+    21300248: GBtilesheet5colours_124
+    21300250: GBtilesheet5colours_125
+    21300252: GBtilesheet5colours_126
+    21300254: GBtilesheet5colours_127
+    21300256: GBtilesheet5colours_128
+    21300258: GBtilesheet5colours_129
+    21300260: GBtilesheet5colours_130
+    21300262: GBtilesheet5colours_131
+    21300264: GBtilesheet5colours_132
+    21300266: GBtilesheet5colours_133
+    21300268: GBtilesheet5colours_134
+    21300270: GBtilesheet5colours_135
+    21300272: GBtilesheet5colours_136
+    21300274: GBtilesheet5colours_137
+    21300276: GBtilesheet5colours_138
+    21300278: GBtilesheet5colours_139
+    21300280: GBtilesheet5colours_140
+    21300282: GBtilesheet5colours_141
+    21300284: GBtilesheet5colours_142
+    21300286: GBtilesheet5colours_143
+    21300288: GBtilesheet5colours_144
+    21300290: GBtilesheet5colours_145
+    21300292: GBtilesheet5colours_146
+    21300294: GBtilesheet5colours_147
+    21300296: GBtilesheet5colours_148
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GBtilesheet5colours_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2396
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052e806f8d4e43143b1f7ebcfd6232f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2396
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c30594c385e734d827f89bd82dda8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_2
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2396
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7692355fc889f814d9d7aa0e15a4bac3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2396
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad3c43ffbcf60d4480cb99809bc57f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_4
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 2396
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0370aad609f4740ad12f038177ed02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_5
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2396
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2ae9babc119c14799b9d588af0255c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_6
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 2396
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca57b58a00bc57346b6250ea48dc01ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_7
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 2396
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9455c5298d7766543a3ad029276c2028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_8
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2396
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d3f7936b976054999bb62c7fdb7093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_9
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 2396
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273974e9df61a2a4eb1ececb78b83007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2232
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82525a3419aafa45a8a9fd93a6e91b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2232
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5b05ad56135e7419a6d1ce74ec3ac6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_12
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2232
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c871bdb97269b4d9a5384be5eacf0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_13
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2232
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71615b52e1499fc47a99a225bb1a7c9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_14
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 2232
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065b89140f70c154db5b08ab449a373b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_15
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2232
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d9cb3d904401a4496bedacbfe3483e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_16
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 2232
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaaff549ed2e034aa4c953afec415f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_17
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 2232
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c171cbb4d4b69414fa1aaa4e0c45a983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_18
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2232
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3479bbf0fec61d47bf599828fae1c70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_19
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 2232
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8df5d0ce8647984a9d4110aa24650c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2068
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ea950d7126cdd42b76b1a274fb9da0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2068
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783420050e9302d4db72d9295a65cd21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_22
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2068
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a5696ec6e0c5f4e8be02caef0524e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_23
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2068
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bff038bb7dba24c957cdb01a5aa5b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_24
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 2068
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861d80e2969a8374e8675276555bf256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_25
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2068
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b581e86238e594db3b95939c5da6b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_26
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 2068
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69911cf2874740b4b83a0ce0d36ebad9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_27
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 2068
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3745bcc67a2c3da43a1deea37514197d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_28
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2068
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7d679876a147d43a9007e6c5bf6662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_29
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 2068
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3451c9690b7052943852a46164da0a09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1904
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16fbfb7cd07a7f42a7ea9e6da2b39eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1904
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4055aae4cd5b66142b971d26caa8bfce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_32
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1904
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009f168a44b88594f958be392eccba0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_33
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1904
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f9901e2a0401647bc04e34b6250735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_34
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1904
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d4a73abbc98eb4ca43bba43d0b2b88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_35
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1904
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa3891b2a581344ea6593326e170a4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_36
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1904
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e46ae88a2e10e4eab33cdf9bdaf47c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_37
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1904
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d580b732250a142a107e57542d21dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_38
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1904
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0618fe706cb5d4f829ba8f08209732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_39
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1904
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991758401d718274b88b90bb987f676a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1740
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9378ec487c7b64d8feb2e223724aec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1740
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a740f22288dbf6d40a0ff9549e4570cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_42
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1740
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2be0808723eecd46b43ac9ad5aacac8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_43
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1740
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8e2c544fae6364c806aa6928b51685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_44
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1740
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260634fa21db776438b82641369d4466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_45
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1740
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d509b0a5b4bd94cb852e861fa4de5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_46
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1740
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53e998bab6f1c44386f97d761e47c88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_47
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1740
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc45d03553e4a10498b38de591903d39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_48
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1740
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe704833e2a28e4db8c113f7f3b096a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_49
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1740
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a8916421b91c94e93cfad1571c2118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1576
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166eea431ad9f5f4e819f7e67be408a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_51
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1576
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1560a2f540d7a4c990e26cd879819b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_52
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1576
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c076dfabcd615344db932d749554ac90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_53
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1576
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d29969f9ffc113488b5722744d4bb78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_54
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1576
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dc1e3c986c0f54ab44151ff48d563a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_55
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1576
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234abd70b759c78418c209901c5081b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_56
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1576
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee21389f6b2afda408fe1236a109ba11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_57
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1576
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baed8a0fbd5a784f8ec40b06bfa82c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_58
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1576
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bea65d8f3ff1c045a99ca1046c4a73d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_59
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1576
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5718e16ec17aeec4e947490f0f269b65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1412
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e4fc44f23578f4ab0f1d303acb0c5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_61
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1412
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714e618669f31d642b3a1841f534932b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_62
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1412
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec71469f57579ad4494331fd736da303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_63
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1412
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec00a4ca8a3dd0241999008c425c23d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_64
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1412
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821e7c4bc761f304fa85acd04bfc1334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_65
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1412
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b55ea92a82805b449f6ca0b40780731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_66
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1412
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3344af8ca5d4cf241b96f297a9ae6157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_67
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1412
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bb9376ea383a541aed9327173965b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_68
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1412
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655e0a3874c10e64691b17d0a341fd46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457e9d4866208ee4798aee76d38fa2ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_70
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1248
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e84032be7076545934dc9d03d19636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_71
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 978
+        width: 272
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa6cce80cebddf4382e2c10faff0cd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_72
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1248
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0537fe8994dacc499ec5312f6fca0bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_73
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1248
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6caeff3758677a4eb79b0dec9a0e952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_74
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1248
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4aec1456228904690a40404a1a9519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_75
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1248
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fe43df453a5d34195f095c106f306b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_76
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1248
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d587fa641c2284d4fb8b7b80f3189c39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_77
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1248
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a791a8f1a9a4ec4fa7e5005bf35af6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_78
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1248
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5473d364406bfa844a7e96587ec38048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1084
+        width: 299
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034f5bbc5552bfd4abdb03d7ca24be57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_80
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1084
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a1794401db2fe4783391346a02693c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_81
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1083
+        width: 290
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9231cbb38ac3a64fb9af0c223ef2e01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_82
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1084
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a9bf2a3e33f744ebaa653a8bfb0c8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_83
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 977
+        width: 281
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266562e891182e14fbbf10d31dff3278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_84
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1084
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a760ee824a5ac240bf24c4418c42580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_85
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1084
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81cea7a9190a1347ac15400258db2cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_86
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1084
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7dd6eef147d2347b4f458105b15525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_87
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1084
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8978ff8cbae7c5d44a789588e179a6e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_88
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1084
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6aa711fc158330498c6ce20aff6db7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bfef1f544f55f4584b92972e451a34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_90
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 920
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6204175e151bdbb4895059c9fb0d7953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_91
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 920
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a8e0ada72532c418893dec3b5ae1fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_92
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 920
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5392ea75b9e76b44a928cad316cf80fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_93
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 920
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8914148259ead44d9bfeb87a670a080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_94
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 920
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10245da5cf847634d96ba57f497d0a92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_95
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 920
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8317aa5bfc00e84a978cb24e4696d0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_96
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 920
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6b709c17f090b4abd5e7f9b42b5374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_97
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 920
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295225e6d9263234e9c2ea4525955875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_98
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 920
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0014e41a55f32cd45b034c2ff4a66119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167c7f79b312f7a4188e94a34ff964c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_100
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 756
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a1635c8cf1d394293860791bfda4d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_101
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 756
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df579d0a856f0a48bb742596528d5eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_102
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 756
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e009a5c69b02284e974131d1afcb510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_103
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 756
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1a02297974f2942a56cfd7004d8547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_104
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 756
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59e7515aab1ca64e948bbcae8c19bdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_105
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 756
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897bc89d2f7d3c64182543f51f88594f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_106
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 756
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a7647ef2cd7c546a100b110eafdbf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_107
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 756
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4222600e34dcdc40947647105274fbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_108
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 756
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed21fdc465afbc4f9742bd2d1ec0f92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15b79094217bbf40a037bcd2c8dd3c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_110
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 592
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a7c9d9fbdc713418f886c8c49c7b14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_111
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 592
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdeb53d74ed22049bc42ef70efa54f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_112
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 592
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a6e4f49240468418cb5b5dacb677aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_113
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 592
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0f3f4a31e267145bc1d5209180cd67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_114
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 592
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae503ef7f1dbadb478cf2c990ed7eda0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_115
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 592
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30088f0fa44794043b481cde398ce556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_116
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 592
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc2839061a6702428242727bf1aee2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_117
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 592
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460dbbb4db9d307448b2e663a80944a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_118
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 592
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877f88427ffa8f94c80deb2df3e77e29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea446a2b1c75ad44cb08f210834b86cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_120
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 428
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf8f0441b7083d4b8d3fcd63deea2a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_121
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 428
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9e3a9777cb47248916ba6874ffbdce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_122
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 428
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655059ddf3ceddf4781f357b20058543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_123
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 428
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8686a29001dfee7428bda52ad80b8216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_124
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 428
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbb0fbb228b0ea4d8c4220ed1fa507c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_125
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 428
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db379f83dd20d440a2b9fc758a8c929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_126
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 480
+        width: 342
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 12, z: 0, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0096f0a834d7546a80278e38ab0b00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_127
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 428
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defaef7a02e1aae4b8585777a80f8879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_128
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 428
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c90c8062e0e0c48aae9a043fbc9226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1722a5adfe645b43935d0c0403e2bf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_130
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 264
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f10722245d959e45b19c80f06181633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_131
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 264
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e421aeaf2655947b3b4184ccbd57a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_132
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 264
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c1dbedf200f4345b8dfd1a1965e0a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_133
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 264
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95381aa20c1e734448be130050ca8739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_134
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 264
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273c4fee0e9d64444afc195f045b2709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_135
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 264
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977456b9605ae074daea96d1207d15de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_136
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 264
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eebe814bef6b074e8f7ca870de7b1b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_137
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 264
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1e1ceb892a4604c9678ca40af1a421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_138
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 264
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18310fa312184e04593b4a351ab68a1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a9606640d8b0f45b066a749d331930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_140
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 100
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb6051eb54eaf745a280bdb217de1ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_141
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 100
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a14d77b5f84454db03d66184c6b38b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_142
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 100
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915118b5a5120ea4fa5194881b8ae668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_143
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 100
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cbe0bf711344c4598b8b08c45fb885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_144
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 100
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99a2ba8221c4bd40a7a2f470df86ac1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_145
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 100
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbf211812aada240ad21e608708a115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_146
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 100
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68087ae5c0caaaa4e924386f67fad2b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_147
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 100
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4923e19d85b28b4bb6ff21162edfc2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBtilesheet5colours_148
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 100
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30191951fd9b65144b71f452b50ddd4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f87e53509895b6d44bac7f2652d2d883
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -9,7 +9,7 @@ public class BasicMovement : MonoBehaviour
     Vector2 movement=new Vector2(0,0);
     public Rigidbody2D rb;
     public GameObject[] sides;
- 
+    
     void Update()
     {
         animator.SetFloat("Horizontal", Input.GetAxis("Horizontal"));
@@ -69,6 +69,6 @@ public class BasicMovement : MonoBehaviour
     }
     void FixedUpdate()
     {
-        rb.MovePosition(rb.position + movement * speed * Time.fixedDeltaTime);
+        rb.MovePosition(rb.position + movement.normalized * speed * Time.fixedDeltaTime);
     }
 }
