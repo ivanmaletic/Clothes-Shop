@@ -9,9 +9,11 @@ public class ClothesSelectionScript : MonoBehaviour
 
     [Header("Sprites To Cycle Trough")]
     public List<Sprite> options = new List<Sprite>();
+    
+    public GameObject switcher;
+
 
     private int currentOption = 0;
-
     public void NextOption()
     {
         currentOption++;
@@ -26,4 +28,5 @@ public class ClothesSelectionScript : MonoBehaviour
         foreach (SpriteRenderer bodypart in bodyPart)
             bodypart.sprite = options[currentOption];
     }
+
 }

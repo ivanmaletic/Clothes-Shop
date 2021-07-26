@@ -17,6 +17,7 @@ public class BasicMovement : MonoBehaviour
         movement.x = Input.GetAxis("Horizontal");
         movement.y = Input.GetAxis("Vertical");
         animator.SetFloat("Speed", movement.sqrMagnitude);
+        if (movement.x == 0 && movement.y == 0) { rb.MovePosition(rb.transform.position); }
         if (movement.x >= 0 && movement.y >= 0)
         {
             if (movement.x > movement.y)
